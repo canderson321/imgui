@@ -3,6 +3,9 @@
 
 ## Dear ImGui artifacts
 imgui.ini
+*.recipe
+*vcxproj*
+*.tlog
 
 ## General build artifacts
 *.o
