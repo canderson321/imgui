@@ -25,8 +25,6 @@ project "IMGUI"
         "imstb_truetype.h",
         "imgui_demo.cpp"
     }
-	
-	defines { "IMGUI_API=__declspec(dllexport)" }
     
     filter "configurations:Debug"
 		runtime "Debug"
